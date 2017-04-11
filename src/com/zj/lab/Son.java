@@ -1,6 +1,5 @@
 package com.zj.lab;
 
-import com.zj.lab.Father.Heart;
 
 public class Son extends Father {
 	public Son() {
